@@ -1,0 +1,4 @@
+## CARD-06: Cross-Screen Authentication Navigation
+As a visitor, I want clear links between login, registration, and recovery pages so that I can switch views seamlessly.
+Acceptance Criteria: Navigation links correctly toggle between login, signup, and reset screens.
+**Status: Implemented**
