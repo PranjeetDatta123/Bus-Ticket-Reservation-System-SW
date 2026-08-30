@@ -1,0 +1,4 @@
+## CARD-17: Multi-Payment Gateway Selector
+As a paying passenger, I want to choose between bKash, Nagad, Card, or Cash on Board so that I can pay conveniently.
+Acceptance Criteria: Payment tab interface switches between mobile banking, card, and cash payment methods.
+**Status: Implemented**

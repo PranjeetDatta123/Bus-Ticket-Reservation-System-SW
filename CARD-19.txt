@@ -1,0 +1,4 @@
+## CARD-19: Digital Ticket QR Output (Payment View)
+As a passenger completing payment, I want my digital QR ticket to display immediately so that I have proof of purchase.
+Acceptance Criteria: Screen generates and renders valid QR code boarding pass on checkout screen.
+**Status: Implemented**

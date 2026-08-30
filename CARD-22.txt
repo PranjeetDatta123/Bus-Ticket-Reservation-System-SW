@@ -1,0 +1,4 @@
+## CARD-22: Interactive FAQ Accordion
+As a customer needing quick answers, I want an expandable FAQ accordion so that I can read about refunds and ticketing policies.
+Acceptance Criteria: Interactive accordion expands and collapses common support questions.
+**Status: Implemented**

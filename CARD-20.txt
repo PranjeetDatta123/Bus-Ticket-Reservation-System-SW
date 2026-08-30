@@ -1,0 +1,4 @@
+## CARD-20: Visual Payment Confirmation Alert
+As a passenger, I want a success notification banner so that I know my transaction was successful.
+Acceptance Criteria: Alert banner confirms successful payment and provides downloadable receipt options.
+**Status: Implemented**

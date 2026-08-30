@@ -1,0 +1,4 @@
+## CARD-23: Direct Agent Support CTA
+As a passenger with an urgent problem, I want a 'Contact Support' trigger so that I can reach human assistance directly.
+Acceptance Criteria: Secondary help card provides direct button to open live chat or contact agent.
+**Status: Implemented**

@@ -1,0 +1,4 @@
+## CARD-21: Support Ticket Submission Form
+As a user facing an issue, I want a support form so that I can submit complaints with my booking ID and issue details.
+Acceptance Criteria: Form submits ticket, generates tracking ID, and sends issue to support team.
+**Status: Implemented**
