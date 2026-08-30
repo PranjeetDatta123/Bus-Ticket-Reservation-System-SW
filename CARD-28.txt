@@ -1,0 +1,4 @@
+## CARD-28: System-Wide Metric Overview
+As an admin, I want platform KPI cards so that I can monitor total earnings, active routes, pending requests, and uptime.
+Acceptance Criteria: Dashboard displays global system metrics including uptime percentages.
+**Status: Implemented**
