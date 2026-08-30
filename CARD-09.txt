@@ -1,0 +1,4 @@
+## CARD-09: Dashboard Sidebar Navigation
+As a passenger, I want a sidebar menu so that I can quickly navigate to Profile, Bookings, History, and Notifications.
+Acceptance Criteria: Left sidebar links route smoothly to all passenger portal sections.
+**Status: Implemented**
