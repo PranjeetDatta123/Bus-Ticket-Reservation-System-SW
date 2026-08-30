@@ -1,0 +1,4 @@
+## CARD-01: Account Registration Form
+As a new user, I want an account registration form so that I can sign up with my full name, email, phone number, and password.
+Acceptance Criteria: Form fields collect credentials securely and trigger the verification flow.
+**Status: Implemented**
