@@ -1,0 +1,4 @@
+## CARD-18: Credit Card Input Form
+As a cardholder, I want dedicated card input fields so that I can enter my card number, expiry date, and CVV securely.
+Acceptance Criteria: Form captures credit/debit card details securely for gateway authorization.
+**Status: Implemented**
