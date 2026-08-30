@@ -1,0 +1,4 @@
+## CARD-24: Operator Financial & Performance Metrics
+As an operator, I want top KPI summary cards so that I can track total revenue, active routes, occupancy rate, and fleet count.
+Acceptance Criteria: Operator dashboard renders key numerical stats (e.g., ৳ 2,84,600 revenue, 78% occupancy).
+**Status: Implemented**
