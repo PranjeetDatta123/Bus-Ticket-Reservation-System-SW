@@ -1,0 +1,4 @@
+## CARD-13: Interactive Visual Seat Grid
+As a passenger, I want a graphical seat map so that I can visually choose available seats on the bus.
+Acceptance Criteria: Real-time grid displays available, selected, and reserved seat states.
+**Status: Implemented**
