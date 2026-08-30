@@ -1,0 +1,4 @@
+## CARD-14: Live Booking Cost Summary
+As a passenger, I want a checkout summary sidebar so that I can see my seat numbers and total calculated fare.
+Acceptance Criteria: Live cost panel details seat selections, ticket prices, fees, and total fare.
+**Status: Implemented**
