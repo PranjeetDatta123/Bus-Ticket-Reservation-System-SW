@@ -1,0 +1,4 @@
+## CARD-02: Phone Number OTP Verification
+As a registering user, I want to verify my phone number via OTP so that my account is authenticated securely.
+Acceptance Criteria: 4-digit security code input verifies account upon submission.
+**Status: Implemented**
