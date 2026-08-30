@@ -2,3 +2,7 @@
 As an operator, I want a route data table so that I can review active routes, bus IDs, schedules, fares, and statuses.
 Acceptance Criteria: Table accurately displays route details with operational status indicators (Active/Delayed).
 **Status: Implemented**
+## CARD-25: Route Management Data Table
+As an operator, I want a route data table so that I can review active routes, bus IDs, schedules, fares, and statuses.
+Acceptance Criteria: Table accurately displays route details with operational status indicators (Active/Delayed).
+**Status: Implemented**
