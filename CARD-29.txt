@@ -1,0 +1,4 @@
+## CARD-29: User Management Data Table
+As an admin, I want a user management table so that I can view user accounts, roles, join dates, and account activity.
+Acceptance Criteria: Table displays all registered passengers and operators with account status controls.
+**Status: Implemented**

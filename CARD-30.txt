@@ -1,0 +1,4 @@
+## CARD-30: Refund Requests & Audit Logs
+As an admin, I want dedicated panels for refund requests and audit logs so that I can manage financial returns and system transparency.
+Acceptance Criteria: Interface allows reviewing/processing refund requests and inspecting system activity logs.
+**Status: Implemented**
