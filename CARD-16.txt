@@ -1,0 +1,4 @@
+## CARD-16: Landing Page Quick Search CTA
+As a homepage visitor, I want a prominent 'Book Now' hero section so that I can immediately start searching tickets.
+Acceptance Criteria: Landing page hero section features direct CTA button leading to booking flow.
+**Status: Implemented**
