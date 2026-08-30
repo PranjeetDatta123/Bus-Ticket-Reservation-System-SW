@@ -1,0 +1,4 @@
+## CARD-26: Visual Occupancy Bar Charts
+As an operator, I want graphical occupancy bar charts so that I can visualize seat fill-rates across various routes.
+Acceptance Criteria: Bar chart component displays occupancy percentage data categorized by route.
+**Status: Implemented**
