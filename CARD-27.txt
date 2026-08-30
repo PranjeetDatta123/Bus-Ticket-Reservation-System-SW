@@ -1,0 +1,4 @@
+## CARD-27: Staff Assignment Roster
+As an operator, I want a staff assignment section so that I can manage assigned drivers and conductors for active schedules.
+Acceptance Criteria: Personnel list displays drivers and support staff linked to specific bus trips.
+**Status: Implemented**
