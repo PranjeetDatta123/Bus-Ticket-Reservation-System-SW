@@ -1,0 +1,4 @@
+## CARD-12: Bus Service Selection List
+As a passenger, I want to view a list of available bus operators and prices so that I can pick the best option.
+Acceptance Criteria: Operator listing panel displays bus companies, departure times, and ticket costs.
+**Status: Implemented**

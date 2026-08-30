@@ -1,0 +1,4 @@
+## CARD-10: Other Bookings Summary List
+As a passenger, I want to see a compact summary of my other bookings so that I can manage or cancel trips easily.
+Acceptance Criteria: UI displays list of additional bookings with active action buttons.
+**Status: Implemented**
