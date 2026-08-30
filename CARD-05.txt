@@ -1,0 +1,4 @@
+## CARD-05: New Password Configuration
+As a user recovering my account, I want to set and confirm a new password after OTP verification so that I regain secure access.
+Acceptance Criteria: New password fields update user credentials in database upon validation.
+**Status: Implemented**
