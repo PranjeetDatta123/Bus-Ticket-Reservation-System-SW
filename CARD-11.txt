@@ -1,0 +1,4 @@
+## CARD-11: Bus Search & Filtering Header
+As a passenger, I want a top search bar so that I can filter buses by origin, destination, date, and operator.
+Acceptance Criteria: Search bar filters available bus results dynamically based on inputs.
+**Status: Implemented**
