@@ -1,0 +1,4 @@
+## CARD-04: Password Reset Email Entry
+As a user who forgot their password, I want to submit my email or phone number so that I can request a password recovery OTP.
+Acceptance Criteria: Password recovery form dispatches recovery code upon valid entry.
+**Status: Implemented**

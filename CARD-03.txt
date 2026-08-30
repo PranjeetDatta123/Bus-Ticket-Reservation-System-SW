@@ -1,0 +1,4 @@
+## CARD-03: Multi-Identifier User Login
+As a user, I want to log in using either my phone number or email so that I can access my account flexibly.
+Acceptance Criteria: Login interface authenticates both email and mobile number identifiers.
+**Status: Implemented**
