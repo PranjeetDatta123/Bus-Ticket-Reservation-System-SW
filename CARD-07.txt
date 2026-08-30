@@ -1,0 +1,4 @@
+## CARD-07: Personalized Passenger Dashboard Header
+As a logged-in passenger, I want to see a personalized welcome header so that I know my session is active.
+Acceptance Criteria: Header dynamically displays logged-in user name (e.g., 'Welcome back, Fahim').
+**Status: Implemented**
