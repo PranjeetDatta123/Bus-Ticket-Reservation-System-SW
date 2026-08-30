@@ -1,0 +1,4 @@
+## CARD-15: Immediate Booking Confirmation Trigger
+As a passenger, I want a 'Confirm & Continue' button so that I can lock my selected seats and proceed to payment.
+Acceptance Criteria: CTA locks seat selection temporarily and routes to payment screen.
+**Status: Implemented**
