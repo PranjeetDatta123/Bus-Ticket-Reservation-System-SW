@@ -1,0 +1,4 @@
+## CARD-08: Upcoming Trip QR Code Pass
+As a passenger, I want to view my upcoming journey with a QR boarding pass on my dashboard so that I can check in easily.
+Acceptance Criteria: Card renders route details alongside a scannable digital QR boarding pass.
+**Status: Implemented**
